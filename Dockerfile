@@ -11,6 +11,6 @@ COPY . .
 
 EXPOSE 3333
 
-CMD ["npm", "test"]
+CMD ["npm", "start"]
 
 
